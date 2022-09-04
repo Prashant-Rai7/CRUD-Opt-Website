@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "rohitsharma",
+      "email": "rohit@gmail.com",
+      "phone": "9907889908",
+      "id": 1
+    },
+    {
+      "name": "Prashant Rai",
+      "username": "eksoulmate",
+      "email": "prashantrai642@gmail.com",
+      "phone": "7359030960",
+      "id": 11
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "username": "pankaj_tripathi",
+      "email": "oankaj@hmail.vom",
+      "phone": "8963862837",
+      "id": 13
+    },
+    {
+      "name": "Ayushman Khurana",
+      "username": "ayushmann",
+      "email": "ayush@gmail.com",
+      "phone": "9898099878",
+      "id": 14
+    },
+    {
+      "name": "Prashant Rai",
+      "username": "prashantrai7",
+      "email": "prashantrai642@gmail.com",
+      "phone": "7359030960",
+      "id": 15
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "virat18",
+      "email": "virat@yahoo.com",
+      "phone": "8999049490",
+      "id": 17
+    }
+  ]
+}
